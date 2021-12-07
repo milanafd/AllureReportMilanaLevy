@@ -1,0 +1,181 @@
+[ {
+  "uid" : "c762603aa4ba1add",
+  "name" : "Client will not be able to add to product comparison table the same product twice",
+  "time" : {
+    "start" : 1638783470340,
+    "stop" : 1638783479033,
+    "duration" : 8693
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48ff39bb802aad28",
+  "name" : "Client will be able to go to registration page successfully, after clicking on \"My Account\" in footer",
+  "time" : {
+    "start" : 1638783492645,
+    "stop" : 1638783496871,
+    "duration" : 4226
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1afc7d286f48585c",
+  "name" : "Client will be able to login successfully from \"My Account\" in footer",
+  "time" : {
+    "start" : 1638783431393,
+    "stop" : 1638783435838,
+    "duration" : 4445
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "3db40af99507de41",
+  "name" : "Client will be able to register successfully after registration from \"My Account\" in top menu",
+  "time" : {
+    "start" : 1638783481879,
+    "stop" : 1638783489888,
+    "duration" : 8009
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "93ea7f6f3c3c1fd0",
+  "name" : "Client can logout and login",
+  "time" : {
+    "start" : 1638783412288,
+    "stop" : 1638783420097,
+    "duration" : 7809
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "23d0cd8cb605750b",
+  "name" : "Client will be able to login successfully after clicking om My Account in footer",
+  "time" : {
+    "start" : 1638783393846,
+    "stop" : 1638783398229,
+    "duration" : 4383
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "b0f738441e4ac143",
+  "name" : "Logged in client will get an alert confirming adding an item to \"Wish List\"",
+  "time" : {
+    "start" : 1638783532900,
+    "stop" : 1638783541499,
+    "duration" : 8599
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "853e8861d1b638f9",
+  "name" : "Client can go to registration page from \"create account\" link in the \"wish list\" alert",
+  "time" : {
+    "start" : 1638783507744,
+    "stop" : 1638783513697,
+    "duration" : 5953
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "d0dc9274dcba9e63",
+  "name" : "Client can go to Login page from \"login\" link in the \"wish list\" alert",
+  "time" : {
+    "start" : 1638783422886,
+    "stop" : 1638783428600,
+    "duration" : 5714
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "fc99fbc471b98be4",
+  "name" : "Add a product to cart from product page",
+  "time" : {
+    "start" : 1638783462289,
+    "stop" : 1638783467428,
+    "duration" : 5139
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b5c76482b859d3cf",
+  "name" : "Logged in client in \"Checkout\" will not need to fill registration details",
+  "time" : {
+    "start" : 1638783400937,
+    "stop" : 1638783409501,
+    "duration" : 8564
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "db4f7247c81d8e2f",
+  "name" : "Client will not be able to register with an existing Email",
+  "time" : {
+    "start" : 1638783516477,
+    "stop" : 1638783522401,
+    "duration" : 5924
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "b8db85710a1baef9",
+  "name" : "Client will be directed to go to registration page if he will try to add to \"Wish List\" while logged out",
+  "time" : {
+    "start" : 1638783525027,
+    "stop" : 1638783530116,
+    "duration" : 5089
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "2c44cc6e446aeb7a",
+  "name" : "Client will be blocked out for 1 hour after several failed login attempts",
+  "time" : {
+    "start" : 1638783449184,
+    "stop" : 1638783459540,
+    "duration" : 10356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64509049c0c8d52b",
+  "name" : "Access as a \"New Customer\" registration from \"Checkout\" page by adding a product and try to purchase it when logged out",
+  "time" : {
+    "start" : 1638783499554,
+    "stop" : 1638783504966,
+    "duration" : 5412
+  },
+  "status" : "passed",
+  "severity" : "trivial"
+}, {
+  "uid" : "de49ce35771ec1e1",
+  "name" : "Client will be able to login successfully after registration from top menu",
+  "time" : {
+    "start" : 1638783378686,
+    "stop" : 1638783384648,
+    "duration" : 5962
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "45409c4a16c14463",
+  "name" : "Client will not be able to login successfully after typing wrong password",
+  "time" : {
+    "start" : 1638783386599,
+    "stop" : 1638783390950,
+    "duration" : 4351
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "3f40b5936c335723",
+  "name" : "Login from \"Checkout\" page",
+  "time" : {
+    "start" : 1638783438591,
+    "stop" : 1638783446360,
+    "duration" : 7769
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]
